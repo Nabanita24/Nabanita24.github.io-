@@ -1,0 +1,40 @@
+body{
+padding:0px;
+margin:0px;
+box-sizing: border-box;
+}
+#heading {
+	font-weight: bold;
+	font-size: 2em;
+	padding: 30px;
+	margin: 10px 0px 20px 35%;
+}
+#header-nav{
+	border: 4px solid black;
+	background-color: #b8b894;
+	border-radius: 0;
+}
+
+.navbar-brand{
+	font-weight: bold;
+	padding-left: 30px;
+	font-size: 2em;
+	color: black;
+}
+.col-lg-4 ,.col-md-6 ,.col-sm-12,.col-md-12{
+	background-color: #b8b894;
+	padding: 5px;
+	border: 1px solid black;
+}
+h3{
+	text-align: center;
+	padding: 10px;
+	font-weight: bold;
+	
+}
+.navbar-toggler{
+	background-color: #b8b894;
+}
+
+.menu{
+}
